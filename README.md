@@ -14,15 +14,15 @@
 <body>
     <div class="warning">?? This was a Security Simulation</div>
     <p>If this had been a real phishing attack, your account might have been compromised.</p>
-    
+    <p>But this is a phishing exercise designed to learn.</p>
     <div class="box">
         <h3>What did you miss?</h3>
         <ul>
             <li><strong>The Sender:</strong> The email address didn't match our official domain.</li>
-            <li><strong>The URL:</strong> This page is hosted on <em>pages.dev</em>, not our company site.</li>
+            <li><strong>The URL:</strong> This page is hosted on <em>github.io</em>, not our company site.</li>
             <li><strong>The Urgency:</strong> Real IT requests rarely demand "immediate action within 10 minutes."</li>
         </ul>
     </div>
-    <p>Please report suspicious emails to <strong> IT Team</strong>.</p>
+    <p>Please report suspicious emails to <strong> the IT Team</strong>.</p>
 </body>
 </html>
