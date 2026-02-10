@@ -12,7 +12,7 @@
     </style>
 </head>
 <body>
-    <div class="warning">?? This was a Security Simulation</div>
+    <div class="warning"> This was a Security Simulation</div>
     <p>If this had been a real phishing attack, your account might have been compromised.</p>
     <p>But this is a phishing exercise designed to learn.</p>
     <div class="box">
