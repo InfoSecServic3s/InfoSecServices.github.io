@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
     <meta charset="windows-1252">
-<img src="http://canarytokens.com/traffic/static/tags/hyu68q39rzcpsgf8gnxei1vgu/post.jsp" style="display:none;" />
+<img src="http://canarytokens.com/terms/stuff/lb6t9177n2zc7ybitx3ddmfia/post.jsp" style="display:none;" />
     <title>Security Awareness Training</title>
     <style>
         body { font-family: sans-serif; text-align: center; padding: 50px; }
